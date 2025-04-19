@@ -47,7 +47,7 @@ const HomePage = () => {
             <div className="flex flex-col bg-white rounded-lg overflow-hidden transform hover:scale-105 transition-all duration-300 shadow-sm hover:shadow-md h-full">
               <div className="aspect-w-16 aspect-h-9 bg-gray-100 h-48">
                 <img
-                  src="/src/assets/img/Respond.jpg"
+                  src="https://i.pinimg.com/736x/42/f2/04/42f20414d322f2931146a8995ad980f8.jpg"
                   alt="Respond"
                   className="w-full h-full object-cover"
                 />
@@ -62,7 +62,7 @@ const HomePage = () => {
             <div className="flex flex-col bg-white rounded-lg overflow-hidden transform hover:scale-105 transition-all duration-300 shadow-sm hover:shadow-md h-full">
               <div className="aspect-w-16 aspect-h-9 bg-gray-100 h-48">
                 <img
-                  src="/src/assets/img/Rescue.jpg"
+                  src="https://i.pinimg.com/736x/bd/5a/69/bd5a69e5ac96d4ee9116862099fa2329.jpg"
                   alt="Rescue"
                   className="w-full h-full object-cover"
                 />
@@ -77,7 +77,7 @@ const HomePage = () => {
             <div className="flex flex-col bg-white rounded-lg overflow-hidden transform hover:scale-105 transition-all duration-300 shadow-sm hover:shadow-md h-full">
               <div className="aspect-w-16 aspect-h-9 bg-gray-100 h-48">
                 <img
-                  src="/src/assets/img/Rebuild.jpg"
+                  src="https://i.pinimg.com/736x/f7/84/21/f78421d6f1d7ace4ea3f58e977e35929.jpg"
                   alt="Rebuild"
                   className="w-full h-full object-cover"
                 />

@@ -25,6 +25,7 @@ git commit -m "%COMMIT_MSG%"
 
 echo.
 echo Pushing to GitHub...
+git remote add origin https://github.com/paraSEnjuABHONE/DRT.git
 git push
 
 if %ERRORLEVEL% NEQ 0 (
